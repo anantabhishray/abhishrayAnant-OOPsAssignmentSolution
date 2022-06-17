@@ -16,7 +16,6 @@ public class Main {
 		System.out.println(HRDep.getWorkDeadline());
 		System.out.println(HRDep.isTodayAHoliday());
 		
-		
 		TechDepartment TechDep = new TechDepartment();
 		System.out.println("\n" + "Welcome to " + TechDep.departmentName());
 		System.out.println(TechDep.getTodaysWork());
